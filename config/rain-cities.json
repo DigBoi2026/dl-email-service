@@ -1,0 +1,51 @@
+{
+  "_note": "Rain block cities \u2014 top REGIONAL (non-capital, non-metro) AUSTRALIAN cities by sales, Shopify last 365d. Orange NSW excluded (~150km from Dubbo, duplicate weather). Jimboomba QLD excluded (greater-Brisbane metro) -> Gordonvale QLD used as top regional QLD. Refresh periodically from Shopify.",
+  "country": "AU",
+  "excludeCapitals": true,
+  "excludeMetro": true,
+  "forecastDays": 3,
+  "wetThreshold": {
+    "mm": 1,
+    "probability": 50
+  },
+  "fallback": "month_average_rain_days",
+  "climateYears": "2015-2024",
+  "cities": [
+    {
+      "name": "Dubbo",
+      "state": "NSW",
+      "lat": -32.2569,
+      "lon": 148.6011
+    },
+    {
+      "name": "Cobar",
+      "state": "NSW",
+      "lat": -31.4983,
+      "lon": 145.8344
+    },
+    {
+      "name": "Sunbury",
+      "state": "VIC",
+      "lat": -37.5789,
+      "lon": 144.728
+    },
+    {
+      "name": "Baldivis",
+      "state": "WA",
+      "lat": -32.3167,
+      "lon": 115.8333
+    },
+    {
+      "name": "Somerville",
+      "state": "VIC",
+      "lat": -38.2244,
+      "lon": 145.1786
+    },
+    {
+      "name": "Gordonvale",
+      "state": "QLD",
+      "lat": -17.0964,
+      "lon": 145.7856
+    }
+  ]
+}

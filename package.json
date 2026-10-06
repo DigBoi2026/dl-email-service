@@ -1,0 +1,18 @@
+{
+  "name": "diggerlid-interactive-email",
+  "type": "module",
+  "private": true,
+  "dependencies": {
+    "@resvg/resvg-js": "^2.6.2",
+    "gifenc": "^1.0.3"
+  },
+  "engines": {
+    "node": "22.x"
+  },
+  "scripts": {
+    "test": "node --test \"test/*.test.js\"",
+    "mine": "node scripts/mine-copurchase.js",
+    "diagnose": "node scripts/diagnose.js",
+    "check": "node scripts/check-catalog.js --templates \"$HOME/Documents/DIGGERLID/email-pipeline/templates\""
+  }
+}

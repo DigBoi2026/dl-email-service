@@ -1,0 +1,45 @@
+{
+  "_note": "Rain block \u2014 STATE GRID. Abandoned cart has no location data, so every state/territory is shown and the reader finds their own. Wet = any sampled point >=1mm or >=50% over 3 days. Dry states fall back to the month's average wet days (10yr). Each state sampled from 2 REGIONAL centres, not capitals.",
+  "mode": "state_grid",
+  "country": "AU",
+  "forecastDays": 3,
+  "wetThreshold": {
+    "mm": 1,
+    "probability": 50
+  },
+  "fallback": "month_average_rain_days",
+  "climateYears": "2015-2024",
+  "samplePoints": {
+    "NSW": [
+      "Dubbo",
+      "Tamworth"
+    ],
+    "VIC": [
+      "Bendigo",
+      "Sale"
+    ],
+    "QLD": [
+      "Toowoomba",
+      "Rockhampton"
+    ],
+    "WA": [
+      "Bunbury",
+      "Geraldton"
+    ],
+    "SA": [
+      "Mount Gambier",
+      "Port Augusta"
+    ],
+    "TAS": [
+      "Launceston",
+      "Devonport"
+    ],
+    "NT": [
+      "Katherine",
+      "Alice Springs"
+    ],
+    "ACT": [
+      "Canberra"
+    ]
+  }
+}

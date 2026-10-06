@@ -1,0 +1,7 @@
+{
+  "generatedAt": null,
+  "ordersAnalysed": 0,
+  "productCounts": {},
+  "pairs": {},
+  "_notes": "Placeholder. Run `node scripts/mine-copurchase.js` against your real Shopify orders to populate. Until then the co-purchase layer is inert and rules + fallback carry everything — which is correct, not broken."
+}

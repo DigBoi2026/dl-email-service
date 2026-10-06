@@ -1,0 +1,17 @@
+{
+  "eofy-jul26": {
+    "endsAt": "2026-07-31T23:59:59+10:00",
+    "liveHeadline": "EOFY SALE NOW ON",
+    "liveSub": "15% off everything \u2014 we've got you covered.",
+    "endedHeadline": "EOFY SALE HAS WRAPPED",
+    "endedSub": "Full range still ready to ship.",
+    "endedRedirect": "https://diggerlid.com/collections/all"
+  },
+  "_notes": "Add one entry per campaign. `endsAt` drives /api/img?type=state and post-send link redirects in /api/go?c=<key>. Edit + redeploy (or move to Vercel Edge Config later if you want no-deploy edits).",
+  "smoke-ended-2020": {
+    "endsAt": "2020-01-01T00:00:00+10:00",
+    "endedHeadline": "TEST CAMPAIGN (EXPIRED)",
+    "endedSub": "Used by smoke-test.js \u2014 do not delete.",
+    "endedRedirect": "https://diggerlid.com/collections/all"
+  }
+}

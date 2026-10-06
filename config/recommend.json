@@ -1,0 +1,354 @@
+{
+ "discount": "SITEKIT15",
+ "maxRecommendations": 3,
+ "_tagGuide": {
+  "spearhead": "Flagship products we want to push. Anchors an order.",
+  "general": "Low-friction add-ons that lift AOV once a spearhead is in play.",
+  "consumable": "Gets used up — never excluded by ownership, people rebuy.",
+  "accessory": "Supporting gear. Not an anchor, not a general attach.",
+  "NOTE": "A product can carry several tags. PRO Mat is both `spearhead` (worth anchoring an order) and `general` (worth attaching when someone's buying a different spearhead). Anything already owned or in-cart is excluded, so a PRO Mat buyer is never pushed a PRO Mat."
+ },
+ "products": {
+  "excavator_pro_enclosure": {
+   "title": "Excavator PRO Enclosure",
+   "variant": "43540388937898",
+   "qty": 1,
+   "tags": [
+    "spearhead",
+    "cover"
+   ],
+   "match": [
+    "excavator pro enclosure",
+    "pro enclosure"
+   ],
+   "blurb": "Full cab protection, on in minutes.",
+   "productId": "7551894651050"
+  },
+  "digger_shield": {
+   "title": "Digger Shield",
+   "variant": "42435168469162",
+   "qty": 1,
+   "tags": [
+    "spearhead",
+    "cover"
+   ],
+   "match": [
+    "digger shield"
+   ],
+   "blurb": "Cut-to-fit shield for your machine.",
+   "productId": "7207736213674"
+  },
+  "pro_mat": {
+   "title": "PRO Mat",
+   "variant": "48999426621610",
+   "qty": 1,
+   "tags": [
+    "spearhead",
+    "general",
+    "protection"
+   ],
+   "match": [
+    "pro mat",
+    "workshop mat"
+   ],
+   "blurb": "Off the cold, wet ground.",
+   "productId": "8213717909674"
+  },
+  "quicky_cover": {
+   "title": "Quicky Cover",
+   "variant": "48365037256874",
+   "qty": 1,
+   "tags": [
+    "general",
+    "cover"
+   ],
+   "match": [
+    "quicky cover",
+    "quicky"
+   ],
+   "blurb": "Chuck it on, crack on.",
+   "productId": "4604379267149"
+  },
+  "digger_wipes": {
+   "title": "Digger Wipes",
+   "variant": "47322049020074",
+   "qty": 1,
+   "tags": [
+    "general",
+    "consumable"
+   ],
+   "match": [
+    "digger wipes",
+    "wipes"
+   ],
+   "blurb": "Grease off hands and glass.",
+   "productId": "8213717614762"
+  },
+  "kajo": {
+   "title": "KAJO Grease",
+   "variant": "44970926014634",
+   "qty": 1,
+   "tags": [
+    "consumable",
+    "grease"
+   ],
+   "match": [
+    "kajo",
+    "grease cartridge",
+    "grease 450"
+   ],
+   "blurb": "Screw-top cartridges, no mess.",
+   "productId": "7780170825898"
+  },
+  "coupler": {
+   "title": "Grease Coupler",
+   "variant": "46189790658730",
+   "qty": 1,
+   "tags": [
+    "accessory",
+    "grease"
+   ],
+   "match": [
+    "coupler",
+    "grease gun"
+   ],
+   "blurb": "On and off in a second.",
+   "productId": "8010019340458",
+   "image_fallback": "https://d3k81ch9hvuctc.cloudfront.net/company/VP3MqJ/images/36e998a5-3127-4f1b-808e-e54ff798d143.png"
+  },
+  "draw_bar_cover": {
+   "title": "Draw Bar Cover",
+   "variant": "48164802658474",
+   "altVariants": [
+    "47636639482026"
+   ],
+   "qty": 1,
+   "tags": [
+    "general",
+    "cover"
+   ],
+   "match": [
+    "draw bar cover",
+    "drawbar cover",
+    "draw bar"
+   ],
+   "blurb": "Hitch, plug and chains, covered.",
+   "productId": "8154160267434",
+   "altProductIds": [
+    "8297773957290"
+   ]
+  },
+  "hauler": {
+   "title": "The Hauler Luggage Bag",
+   "variant": "47663506391210",
+   "altVariants": [
+    "48387170533546"
+   ],
+   "qty": 1,
+   "tags": [
+    "general"
+   ],
+   "match": [
+    "hauler",
+    "luggage bag",
+    "hauler bag"
+   ],
+   "blurb": "Tough kit bag that takes a beating.",
+   "productId": "8261130191018",
+   "altProductIds": [
+    "8453917081770"
+   ]
+  },
+  "universal_cover": {
+   "title": "Universal / Engine Covers",
+   "variant": "41738621714602",
+   "productId": "7053360955562",
+   "qty": 1,
+   "tags": [
+    "general",
+    "cover"
+   ],
+   "match": [
+    "universal / engine covers",
+    "universal cover",
+    "engine cover"
+   ],
+   "blurb": "Covers engines, gennies and tools."
+  },
+  "excavator_cover_17": {
+   "title": "1.7 Tonne Excavator Cover",
+   "variant": "29410091270221",
+   "productId": "3792364732493",
+   "handle": "digger-lid-1-7",
+   "qty": 1,
+   "tags": [],
+   "displayOnly": true,
+   "match": [
+    "1.7 tonne excavator cover"
+   ],
+   "blurb": "The original. Full cover for a 1.7 tonne machine."
+  },
+  "micro_excavator_cover": {
+   "title": "Micro Excavator Cover",
+   "variant": "33118255939661",
+   "productId": "4846893072461",
+   "handle": "diggerlid-1-tonne-excavator-cover",
+   "qty": 1,
+   "tags": [],
+   "displayOnly": true,
+   "match": [
+    "micro excavator cover"
+   ],
+   "blurb": "For the 1 tonne machines. Same protection, smaller cut."
+  },
+  "skid_steer_cover": {
+   "title": "Skid Steer Loader Cover",
+   "variant": "41735666204842",
+   "productId": "7051838587050",
+   "handle": "skid-steer-loader-cover",
+   "qty": 1,
+   "tags": [],
+   "displayOnly": true,
+   "match": [
+    "skid steer loader cover"
+   ],
+   "blurb": "Universal fit for tracked and wheeled loaders."
+  },
+  "mini_loader_cover": {
+   "title": "Mini Loader Cover",
+   "variant": "41738076684458",
+   "productId": "4846887698509",
+   "handle": "diggerlid-mini-loader-cover",
+   "qty": 1,
+   "tags": [],
+   "displayOnly": true,
+   "match": [
+    "mini loader cover"
+   ],
+   "blurb": "Fits most stand-on mini loaders. Two sizes."
+  },
+  "kajo_adapter": {
+   "title": "Battery Grease Gun KAJO Adapter",
+   "variant": "44970914447530",
+   "productId": "7780171186346",
+   "handle": "kajo-adapter",
+   "qty": 1,
+   "tags": [],
+   "displayOnly": true,
+   "match": [
+    "kajo adapter",
+    "battery grease gun kajo adapter"
+   ],
+   "blurb": "Turns your battery gun screw-top."
+  }
+ },
+ "rules": [
+  {
+   "id": "cart_cover_attach",
+   "_why": "Cover in the cart -> the gear that goes with a covered machine.",
+   "when_scope": "cart",
+   "when_tags": [
+    "cover"
+   ],
+   "recommend": [
+    "digger_wipes",
+    "pro_mat",
+    "draw_bar_cover"
+   ],
+   "reason": "Goes with your {trigger}"
+  },
+  {
+   "id": "cart_grease_attach",
+   "_why": "Grease in the cart -> Matthew's hierarchy (2026-08-13): coupler, wipes, pro mat IN ORDER, skipping in-cart items. Out-of-stock slots pad from the REGULAR cascade (co-purchase then spearheads), not a hand-forced backfill.",
+   "when_scope": "cart",
+   "when_tags": [
+    "grease"
+   ],
+   "recommend": [
+    "coupler",
+    "digger_wipes",
+    "pro_mat"
+   ],
+   "reason": "Everyone greasing up grabs these"
+  },
+  {
+   "id": "cart_protection_attach",
+   "_why": "Mat/protection in the cart -> merchandised fixed grid (Matthew 2026-08-10): another PRO Mat (they zip together), wipes, quicky. Old attach list kept as backfill for out-of-stock.",
+   "when_scope": "cart",
+   "when_tags": [
+    "protection"
+   ],
+   "recommend": [
+    "draw_bar_cover",
+    "hauler"
+   ],
+   "reason": "Rounds out your {trigger}",
+   "force": [
+    "pro_mat",
+    "digger_wipes",
+    "quicky_cover"
+   ]
+  }
+ ],
+ "fallback": {
+  "recommend_tags": [
+   "spearhead"
+  ],
+  "reason": "Our best-selling kit"
+ },
+ "copurchase": {
+  "enabled": true,
+  "minSupport": 5,
+  "minConfidence": 0.25,
+  "reason": "Most people who bought this grab it too"
+ },
+ "_notes": [
+  "RULE ORDER = PRIORITY. First match wins. Current order: cart-based AOV -> consumable upgrade -> spearhead attach -> specific accessory pairings.",
+  "`when` / `recommend` take product keys. `when_tags` / `recommend_tags` take tags. Mix freely.",
+  "`when_tags` = has ANY product with that tag. `when_not_tags` = has NO product with that tag (this is what makes the upgrade path work).",
+  "`when_scope: \"cart\"` matches only what's in the cart right now (abandoned-cart flows). Default matches cart + purchase history combined.",
+  "`{trigger}` in a reason is replaced with the product that fired the rule, e.g. 'Goes with your Digger Shield'.",
+  "Anything already owned or in the cart is excluded automatically - except `consumable` products, which people rebuy.",
+  "Fallback pushes spearheads: if we know nothing about someone, show them the flagship.",
+  "Regenerate mined data: npm run mine",
+  "EDGE CASES: `when_fleet: true` targets bulk buyers. `when_stale_tags` fires when a durable is older than edgeCases.durableOwnershipDays. Every decision carries a confidence score and telemetry — see scripts/diagnose.js."
+ ],
+ "edgeCases": {
+  "durableOwnershipDays": 1095,
+  "fleetQuantityThreshold": 5,
+  "minConfidence": 0.3,
+  "_notes": [
+   "durableOwnershipDays: after this long, a durable good stops counting as 'owned' — covers wear out in the Australian sun, so a 3-year-old cover is a replacement opportunity, not an exclusion. Consumables ignore this entirely.",
+   "fleetQuantityThreshold: total units in a single order at/above this = fleet buyer (Rental Ron, not Construction Charlie). Rules can target with when_fleet.",
+   "minConfidence: below this, the engine STOPS trusting itself and degrades to the safe fallback (spearheads) instead of showing a weak guess. A wrong rec in a fitment business costs a return."
+  ]
+ },
+ "freeShipping": {
+  "threshold": 399,
+  "currency": "AUD",
+  "label": "free shipping",
+  "maxOvershootMultiple": 6,
+  "_note": "$399 Nudge Version (lib/nudge.js). Threshold moved 249 -> 399. Nudge picks the CHEAPEST relevant product that crosses the gap; overshooting the gap by more than maxOvershootMultiple is demoted so a $20 gap is never 'closed' with a $524 enclosure.",
+  "haulerFloor": 200,
+  "_haulerFloor_note": "Cart under this = a long way off the threshold, so the Hauler is force-included in the grid: at $399 it single-handedly clears $399 from any cart this size."
+ },
+ "_sourceOfTruth": "Shopify owns product FACTS (title, price, image, stock) via lib/catalog.js. This file owns STRATEGY only: key -> variant id, tags, rules, co-purchase, thresholds. `title` here is a HUMAN LABEL for reading this config and filling {trigger} in reason strings; the customer always sees the live Shopify title. `match` aliases are a FALLBACK for legacy order history that has no variant id -- new matching is by id, so a rename in Shopify can no longer silently break classification.",
+ "nonProducts": {
+  "_why": "Line items that are NOT products: add-on services, insurance, tips, gift cards. They must never appear in a cart listing, never be recommended, and never count as 'unclassified' -- an unclassified line item halves recommendation confidence, so leaving Package Protection in dropped a perfect 1.0 match to 0.5. Shopify marks these UNLISTED (deliberately not storefront products); that status is not present in Klaviyo event data, so we match on variant id first, title second.",
+  "variants": [
+   "48022986686634"
+  ],
+  "match": [
+   "package protection",
+   "shipping protection",
+   "route protection",
+   "order protection",
+   "gift card",
+   "tip"
+  ],
+  "productIds": [
+   "8376940167338"
+  ]
+ },
+ "_displayOnly_note": "displayOnly products exist so a range email can show them via /api/img?type=card. They carry no tags and are skipped by the nudge top-up pool, so adding one can never quietly change what the recommendation engine suggests."
+}
